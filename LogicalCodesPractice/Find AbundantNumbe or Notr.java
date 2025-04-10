@@ -2,7 +2,7 @@ package first;
 
 import java.util.Scanner;
 
-//Abundant Number is a number sum of factors should be greater than the number itself. 
+//An Abundant Number is a number where the sum of its proper divisors (excluding the number itself) is greater than the number.
 public class AbundantNumber {
 
 	public static void main(String[] args) {
